@@ -1,0 +1,6 @@
+host: 'devsql1'
+database: 'emss'
+adapter: 'mysql2'
+username: 'emss'
+password: 'notsecure'
+  
